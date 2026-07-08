@@ -1,5 +1,5 @@
 # .github
-"""# Autonomous Swarm Intelligence Lab
+# Autonomous Swarm Intelligence Lab
 
 **Making swarms intelligent and autonomous.**
 
