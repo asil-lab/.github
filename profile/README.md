@@ -16,20 +16,21 @@ We build open-source research software for autonomous multi-agent systems, swarm
 
 ## What We Study
 
-The **Autonomous Swarm Intelligence Lab (ASIL)** develops algorithms, software, and experimental systems that help robot teams perceive, decide, coordinate, and act in complex environments.
+The **Autonomous Swarm Intelligence Lab (ASIL)** develops algorithms, software, and experimental systems that help distributed sensing and robotic networks perceive, localize, decide, coordinate, and act in complex environments.
 
-Our work sits at the intersection of robotics, control, optimization, learning, and distributed intelligence. We are especially interested in systems where autonomy emerges from many agents working together under uncertainty, constraints, and real-world dynamics.
+Our work sits at the intersection of signal processing, statistical machine learning, optimization, robotics, and distributed intelligence. We are especially interested in systems where autonomy emerges from many agents working together under uncertainty, limited communication, and real-world dynamics.
 
 ## Research Themes
 
 | Theme | Focus |
 | --- | --- |
-| **Swarm intelligence** | Designing collective behaviors for autonomous robotic systems. |
-| **Multi-agent navigation** | Coordinating robot teams in uncertain, cluttered, and dynamic environments. |
-| **Distributed control** | Building scalable coordination laws for decentralized robot teams. |
-| **Learning-based planning** | Combining data-driven models with planning and control. |
-| **Safe autonomy** | Using optimization, Gaussian processes, and model predictive control for risk-aware decision-making. |
-| **Formation control** | Studying stability, rigidity, resilience, and maneuvering of multi-agent formations. |
+| **Distributed autonomous sensing** | Building sensor and robot networks that infer, localize, and act without centralized supervision. |
+| **Position, navigation, and timing** | Estimating position, time, and orientation for mobile multi-agent systems, including anchorless and GPS-denied settings. |
+| **Probabilistic sensor fusion** | Combining heterogeneous, noisy, and partial measurements using Bayesian inference, Gaussian processes, and state-space models. |
+| **Cooperative relative navigation** | Developing scalable algorithms for agents that localize themselves and one another through neighborhood information. |
+| **Formation control and stability** | Designing resilient coordination laws for drone, rover, and robotic formations under uncertain conditions. |
+| **Robust decision-making** | Turning uncertain sensor data into trustworthy perception, planning, and control for safety-critical autonomy. |
+| **Space and field robotics** | Applying swarm autonomy to drones, rovers, satellites, lunar missions, and other inaccessible environments. |
 
 ## Featured Repositories
 
